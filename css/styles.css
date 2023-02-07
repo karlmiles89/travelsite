@@ -1,0 +1,152 @@
+body {
+    text-align: center;
+    font-family: 'Cormorant', serif;
+    margin: 0px;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Montez', cursive;
+    font-size: 5.625rem;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.875rem;
+    margin: 0px;
+    padding-top: 20px;
+}
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+hr {
+    border: dotted #B9F3FC 6px;
+    border-bottom: none;
+    width: 8%;
+    margin: 50px auto;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Cormorant', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.contact-paragraph {
+        width: 50%;
+        margin: auto;
+        line-height: 1.5;
+    }
+
+.copyright {
+    color: #EAF6F6;
+    padding: 20px 0;
+}
+.skill-row {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.intro-line {
+    font-size: 1.562rem;
+}
+
+.intro-paragraph {
+    width: 50%;
+    margin: 20px auto;
+    line-height: 1.5;
+}
+
+.top-container {
+    background-color: #B9F3FC;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    margin: 30px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px
+}
+
+.sunshine {
+    height: 175px;
+    width: 175px;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+
+.cloud-right {
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.cloud-left {
+    height: 170px;
+    width: 170px;
+    position: absolute;
+    left: 350px;
+    top: 130px;
+}
+
+.img-earth {
+    height: 200px;
+    width: 200px;
+    padding-bottom: 50px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    padding-top: 30px;
+}
+
+.mexico-flag {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.thailand-flag {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.CONTACT-BUTTON {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #405145;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 18px;
+    background-color: #B9F3FC;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+ }
